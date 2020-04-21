@@ -1,6 +1,6 @@
-package javacollections.cabstand.bmwhierarhy.bmwseries;
+package javacollections.cabstand.bmwseries;
 
-import javacollections.cabstand.bmwhierarhy.Car;
+import javacollections.cabstand.Car;
 
 public class Series4 extends Car {
 

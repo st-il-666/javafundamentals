@@ -1,7 +1,8 @@
-package javacollections.cabstand.bmwhierarhy;
+package javacollections.cabstand;
 
 
-import javacollections.cabstand.bmwhierarhy.bmwseries.*;
+import javacollections.cabstand.bmwseries.*;
+import javacollections.cabstand.bmwseries.*;
 
 import java.io.BufferedReader;
 import java.io.IOException;

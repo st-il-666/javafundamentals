@@ -1,4 +1,4 @@
-package javacollections.cabstand.bmwhierarhy;
+package javacollections.cabstand;
 
 
 import java.util.ArrayList;
